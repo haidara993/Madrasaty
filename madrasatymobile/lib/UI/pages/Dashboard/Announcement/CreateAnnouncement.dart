@@ -15,7 +15,7 @@ import 'package:madrasatymobile/core/Models/User.dart';
 import 'package:madrasatymobile/core/enums/ViewState.dart';
 import 'package:madrasatymobile/core/enums/announcementType.dart';
 import 'package:madrasatymobile/core/helpers/shared_preferences_helper.dart';
-import 'package:madrasatymobile/core/viewModel/Announcement/CreateAnnouncementModel.dart';
+import 'package:madrasatymobile/core/viewModel/Announcement/AnnouncementPageModel.dart';
 import 'package:madrasatymobile/locator.dart';
 import 'package:image/image.dart' as Im;
 import 'package:madrasatymobile/main.dart';
@@ -67,7 +67,7 @@ class _CreateAnnouncementState extends State<CreateAnnouncement> {
   }
 
   floatingButtonPressed(
-      CreateAnnouncementModel model, BuildContext context) async {
+      AnnouncementPageModel model, BuildContext context) async {
     if (file != null) {
       // await compressImage();
       path = await uploadImage(file);
@@ -188,7 +188,7 @@ class _CreateAnnouncementState extends State<CreateAnnouncement> {
     postTypeFontColor = Theme.of(context).brightness == Brightness.dark
         ? Colors.white
         : Colors.black;
-    return BaseView<CreateAnnouncementModel>(
+    return BaseView<AnnouncementPageModel>(
       onModelReady: (model) => model.getUserData(),
       builder: (context, model, child) {
         isPosting = model.state == ViewState.Idle ? false : true;

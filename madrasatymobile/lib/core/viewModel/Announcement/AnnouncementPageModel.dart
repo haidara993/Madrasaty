@@ -7,15 +7,29 @@ import 'package:madrasatymobile/locator.dart';
 class AnnouncementPageModel extends BaseModel {
   AnnouncementServices _announcementServices = locator<AnnouncementServices>();
 
-  List<Announcement> announcements = [];
+  List<Announcement> get announcements => _announcementServices.announcements;
   AnnouncementPageModel();
 
-  Future<List<Announcement>> getAnnouncements() async {
+  getAnnouncements() async {
     setState(ViewState.Busy);
-    announcements = await _announcementServices.getAnnouncements();
+    await _announcementServices.getAnnouncements();
     setState(ViewState.Idle);
     print(announcements.length);
-    return announcements;
+    // return announcements;
+  }
+
+  getUserData() async {
+    setState(ViewState.Busy);
+    // await announcementServices.init();
+    setState(ViewState.Idle);
+  }
+
+  Future<int> postAnnouncement(Announcement announcement) async {
+    setState(ViewState.Busy);
+    int response = await _announcementServices.postAnnouncement(announcement);
+    print(response);
+    setState(ViewState.Idle);
+    return response;
   }
 
   onRefresh(int divId) async {

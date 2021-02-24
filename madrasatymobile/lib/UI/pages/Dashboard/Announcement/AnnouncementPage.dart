@@ -88,11 +88,11 @@ class _AnnouncementPageState extends State<AnnouncementPage>
     super.dispose();
   }
 
-  void _scrollListener() {
+  void _scrollListener() async {
     if (model.state == ViewState.Idle) {
       if (controller.position.pixels == controller.position.maxScrollExtent) {
         // setState(() => _isLoading = true);
-        model.getAnnouncements();
+        await model.getAnnouncements();
         // scaffoldKey.currentState.widget
       }
     }
