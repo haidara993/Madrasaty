@@ -1,0 +1,353 @@
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\madrasaty.exe
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\madrasaty.deps.json
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\madrasaty.runtimeconfig.json
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\madrasaty.runtimeconfig.dev.json
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\madrasaty.dll
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\madrasaty.pdb
+C:\Users\ASUS\madrasaty\obj\Debug\netcoreapp3.1\madrasaty.csprojAssemblyReference.cache
+C:\Users\ASUS\madrasaty\obj\Debug\netcoreapp3.1\madrasaty.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\madrasaty\obj\Debug\netcoreapp3.1\madrasaty.AssemblyInfoInputs.cache
+C:\Users\ASUS\madrasaty\obj\Debug\netcoreapp3.1\madrasaty.AssemblyInfo.cs
+C:\Users\ASUS\madrasaty\obj\Debug\netcoreapp3.1\madrasaty.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\madrasaty\obj\Debug\netcoreapp3.1\staticwebassets\madrasaty.StaticWebAssets.Manifest.cache
+C:\Users\ASUS\madrasaty\obj\Debug\netcoreapp3.1\staticwebassets\madrasaty.StaticWebAssets.xml
+C:\Users\ASUS\madrasaty\obj\Debug\netcoreapp3.1\madrasaty.dll
+C:\Users\ASUS\madrasaty\obj\Debug\netcoreapp3.1\madrasaty.pdb
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\madrasaty\obj\Debug\netcoreapp3.1\madrasaty.csproj.CopyComplete
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ASUS\madrasaty\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\madrasaty.exe
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\madrasaty.deps.json
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\madrasaty.runtimeconfig.json
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\madrasaty.runtimeconfig.dev.json
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\madrasaty.dll
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\madrasaty.pdb
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\madrasaty1\obj\Debug\netcoreapp3.1\madrasaty.csprojAssemblyReference.cache
+C:\Users\ASUS\madrasaty1\obj\Debug\netcoreapp3.1\madrasaty.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\madrasaty1\obj\Debug\netcoreapp3.1\madrasaty.AssemblyInfoInputs.cache
+C:\Users\ASUS\madrasaty1\obj\Debug\netcoreapp3.1\madrasaty.AssemblyInfo.cs
+C:\Users\ASUS\madrasaty1\obj\Debug\netcoreapp3.1\madrasaty.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\madrasaty1\obj\Debug\netcoreapp3.1\madrasaty.csproj.CopyComplete
+C:\Users\ASUS\madrasaty1\obj\Debug\netcoreapp3.1\staticwebassets\madrasaty.StaticWebAssets.Manifest.cache
+C:\Users\ASUS\madrasaty1\obj\Debug\netcoreapp3.1\staticwebassets\madrasaty.StaticWebAssets.xml
+C:\Users\ASUS\madrasaty1\obj\Debug\netcoreapp3.1\madrasaty.dll
+C:\Users\ASUS\madrasaty1\obj\Debug\netcoreapp3.1\madrasaty.pdb
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\Data\UserSeedData.json
+C:\Users\ASUS\madrasaty1\bin\Debug\netcoreapp3.1\libman.json
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\Data\UserSeedData.json
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\libman.json
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\madrasaty.exe
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\madrasaty.deps.json
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\madrasaty.runtimeconfig.json
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\madrasaty.runtimeconfig.dev.json
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\madrasaty.dll
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\madrasaty.pdb
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\flutter\New folder\madrasaty1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\flutter\New folder\madrasaty1\obj\Debug\netcoreapp3.1\madrasaty.csprojAssemblyReference.cache
+D:\flutter\New folder\madrasaty1\obj\Debug\netcoreapp3.1\madrasaty.MvcApplicationPartsAssemblyInfo.cache
+D:\flutter\New folder\madrasaty1\obj\Debug\netcoreapp3.1\madrasaty.AssemblyInfoInputs.cache
+D:\flutter\New folder\madrasaty1\obj\Debug\netcoreapp3.1\madrasaty.AssemblyInfo.cs
+D:\flutter\New folder\madrasaty1\obj\Debug\netcoreapp3.1\madrasaty.RazorTargetAssemblyInfo.cache
+D:\flutter\New folder\madrasaty1\obj\Debug\netcoreapp3.1\madrasaty.csproj.CopyComplete
+D:\flutter\New folder\madrasaty1\obj\Debug\netcoreapp3.1\staticwebassets\madrasaty.StaticWebAssets.Manifest.cache
+D:\flutter\New folder\madrasaty1\obj\Debug\netcoreapp3.1\staticwebassets\madrasaty.StaticWebAssets.xml
+D:\flutter\New folder\madrasaty1\obj\Debug\netcoreapp3.1\madrasaty.dll
+D:\flutter\New folder\madrasaty1\obj\Debug\netcoreapp3.1\madrasaty.pdb
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\Data\UserSeedData.json
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\libman.json
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\madrasaty.exe
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\madrasaty.deps.json
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\madrasaty.runtimeconfig.json
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\madrasaty.runtimeconfig.dev.json
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\madrasaty.dll
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\madrasaty.pdb
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\flutter\madrasaty\madrasatyAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\flutter\madrasaty\madrasatyAPI\obj\Debug\netcoreapp3.1\madrasaty.csprojAssemblyReference.cache
+D:\flutter\madrasaty\madrasatyAPI\obj\Debug\netcoreapp3.1\madrasaty.MvcApplicationPartsAssemblyInfo.cache
+D:\flutter\madrasaty\madrasatyAPI\obj\Debug\netcoreapp3.1\madrasaty.AssemblyInfoInputs.cache
+D:\flutter\madrasaty\madrasatyAPI\obj\Debug\netcoreapp3.1\madrasaty.AssemblyInfo.cs
+D:\flutter\madrasaty\madrasatyAPI\obj\Debug\netcoreapp3.1\madrasaty.RazorTargetAssemblyInfo.cache
+D:\flutter\madrasaty\madrasatyAPI\obj\Debug\netcoreapp3.1\madrasaty.csproj.CopyComplete
+D:\flutter\madrasaty\madrasatyAPI\obj\Debug\netcoreapp3.1\staticwebassets\madrasaty.StaticWebAssets.Manifest.cache
+D:\flutter\madrasaty\madrasatyAPI\obj\Debug\netcoreapp3.1\staticwebassets\madrasaty.StaticWebAssets.xml
+D:\flutter\madrasaty\madrasatyAPI\obj\Debug\netcoreapp3.1\madrasaty.dll
+D:\flutter\madrasaty\madrasatyAPI\obj\Debug\netcoreapp3.1\madrasaty.pdb
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\Data\UserSeedData.json
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\libman.json
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\madrasaty.exe
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\madrasaty.deps.json
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\madrasaty.runtimeconfig.json
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\madrasaty.runtimeconfig.dev.json
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\madrasaty.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\madrasaty.pdb
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\obj\Debug\netcoreapp3.1\madrasaty.csprojAssemblyReference.cache
+D:\flutter\Madrasaty-master\madrasatyAPI\obj\Debug\netcoreapp3.1\madrasaty.MvcApplicationPartsAssemblyInfo.cache
+D:\flutter\Madrasaty-master\madrasatyAPI\obj\Debug\netcoreapp3.1\madrasaty.AssemblyInfoInputs.cache
+D:\flutter\Madrasaty-master\madrasatyAPI\obj\Debug\netcoreapp3.1\madrasaty.AssemblyInfo.cs
+D:\flutter\Madrasaty-master\madrasatyAPI\obj\Debug\netcoreapp3.1\madrasaty.RazorTargetAssemblyInfo.cache
+D:\flutter\Madrasaty-master\madrasatyAPI\obj\Debug\netcoreapp3.1\madrasaty.csproj.CopyComplete
+D:\flutter\Madrasaty-master\madrasatyAPI\obj\Debug\netcoreapp3.1\staticwebassets\madrasaty.StaticWebAssets.Manifest.cache
+D:\flutter\Madrasaty-master\madrasatyAPI\obj\Debug\netcoreapp3.1\staticwebassets\madrasaty.StaticWebAssets.xml
+D:\flutter\Madrasaty-master\madrasatyAPI\obj\Debug\netcoreapp3.1\madrasaty.dll
+D:\flutter\Madrasaty-master\madrasatyAPI\obj\Debug\netcoreapp3.1\madrasaty.pdb

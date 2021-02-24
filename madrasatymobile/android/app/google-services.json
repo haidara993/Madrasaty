@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "374965046808",
+    "project_id": "madrasaty-305d5",
+    "storage_bucket": "madrasaty-305d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374965046808:android:0bfe10e2a1cf9f3e3bfd6d",
+        "android_client_info": {
+          "package_name": "com.hedorasoft.madrasaty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374965046808-1t4pnip76238eunu9c915a8hhkcl45ug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hedorasoft.madrasaty",
+            "certificate_hash": "e9ce87d4d4e391ecff062b5678174e0fe40ae26c"
+          }
+        },
+        {
+          "client_id": "374965046808-0vsfrvcecu6fqbobh66bhce1g9mfbekj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFnTRX_mszcqOoiqFikGgMo8lg1Yhyi1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374965046808-0vsfrvcecu6fqbobh66bhce1g9mfbekj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
